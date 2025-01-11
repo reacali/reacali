@@ -18,7 +18,7 @@ Welcome to my GitHub! I’m a passionate computer science student at the **Unive
 
 ## 🚀 Technical Skills  
 ### **Languages**  
-- **Proficient:** Python, C/C++, Java, R, x86 Assembly  
+- Python, C/C++, Java, R, x86 Assembly  
 
 ### **Tools & Frameworks**  
 - Git, Maven, PyTorch, scikit-learn, NumPy, Pandas, Arduino, JavaFX  
